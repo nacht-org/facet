@@ -1,6 +1,7 @@
 name: facet
 description: A brick to create a vertical slice using best practices.
 version: 0.1.0+2
+repository: https://github.com/nacht-org/facet
 
 environment:
   mason: ">=0.1.0-dev.26 <0.1.0"
