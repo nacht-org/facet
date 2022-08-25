@@ -12,6 +12,7 @@ mason make facet_brick --name login
 
 ## Variables
 
-| Variable | Description           | Default | Type   |
-| -------- | --------------------- | ------- | ------ |
-| `name`   | The name of the facet | login   | string |
+| Variable         | Description                     | Default | Type   |
+| ---------------- | ------------------------------- | ------- | ------ |
+| `name`           | The name of the facet           | login   | string |
+| `export_modules` | Export modules other than views | true    | bool   |

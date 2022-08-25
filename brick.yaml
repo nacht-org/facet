@@ -1,6 +1,6 @@
 name: facet
 description: A brick to create a vertical slice using best practices.
-version: 0.1.0+1
+version: 0.1.0+2
 
 environment:
   mason: ">=0.1.0-dev.26 <0.1.0"
@@ -11,3 +11,8 @@ vars:
     description: The facet name.
     default: login
     prompt: What is the facet name?
+  export_modules:
+    type: boolean
+    description: Export modules other than views.
+    default: true
+    prompt: Should we export modules?

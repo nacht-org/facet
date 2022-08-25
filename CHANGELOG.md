@@ -6,6 +6,7 @@ All notable changes to this project will be documented in this file.
 
 - Added basic page template.
 - Rename brick to facet.
+- Export modules from slice optionally.
 
 ## 0.1.0+1
 
