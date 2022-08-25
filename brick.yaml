@@ -1,4 +1,4 @@
-name: facet_brick
+name: facet
 description: A brick to create a vertical slice using best practices.
 version: 0.1.0+1
 
