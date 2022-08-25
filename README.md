@@ -6,6 +6,14 @@ A brick to create a minimal facet/slice for vertical slice architecture.
 
 ## How to use
 
+Add the brick to mason using
+
+```bash
+mason add facet --git-url https://github.com/nacht-org/facet
+```
+
+And code using the brick with
+
 ```bash
 mason make facet_brick --name login
 ```
